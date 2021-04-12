@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T09:51:29.620Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63" etag="bUabxvu8I4kOPIam2RI4" version="13.10.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-04-12T09:08:50.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="n2BdQ-ruH6uxR8Gp7Ex_" version="14.5.6" type="github" pages="6">
   <diagram id="e2c9991f-fc15-2951-6e5c-f6473044c23a" name="Overview">
-    <mxGraphModel dx="946" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,7 +242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6c761ff4-c369-e3a4-1d80-51f8350c48c2" name="Aanvraag">
-    <mxGraphModel dx="946" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -571,7 +571,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="117" value="&lt;div&gt;Dan kan offerte worden overgevoerd naar HAS, maar niet in de laatste 3 dagen van de maand (vanwege FUNDINGalgoritme)&lt;/div&gt;&lt;div&gt;Als overgevoerd naar HAS, dan wordt in de avond deze verwerkt tot contract.&lt;/div&gt;&lt;div&gt;De avond erop worden deze gegevens gerepliceerd naar DAS&lt;/div&gt;&lt;div&gt;En MijnAegon haalt 1x per dag de gegevens uit DAS (even uitzoeken wanneer)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="800" y="765" width="353" height="20" as="geometry" />
+          <mxGeometry x="800" y="705" width="353" height="80" as="geometry" />
         </mxCell>
         <mxCell id="118" value="&lt;div&gt;De notaris zal de akte opmaken dat duurt 1 tot 9 dagen. De notaris kan sneller eerst een ‘bewaardersverklaring’ aan Aegon afgeven binnen 1 of 2 dagen zodat ‘Aanvraagproces’ verder kan.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="937" y="626" width="143" height="20" as="geometry" />
